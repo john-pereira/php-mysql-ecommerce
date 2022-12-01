@@ -296,3 +296,21 @@ footer p{
     height: 60px;
     width: 60px;
 }
+
+/* SHOP PAGE */
+
+/* .product img{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    object-fit: cover;
+} */
+
+.pagination a{
+    color: coral;
+}
+
+.pagination li:hover a{
+    background-color: #fb774b;
+    color: #FFF;
+}
